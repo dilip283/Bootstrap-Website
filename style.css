@@ -24,3 +24,12 @@ body{
     border-radius: 50px;
 
 }
+.icon-color{
+    color: #FFC107;
+}
+.bg-color{
+    background-color: #f7f7f7;
+}
+.blog-cards-date p{
+    font-size: 10px;
+}
